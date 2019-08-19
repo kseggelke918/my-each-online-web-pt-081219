@@ -5,5 +5,5 @@ def my_each(array)
     yield new_array << array[i]
     i += 1 
   end 
-  new_array.join 
+  #new_array 
 end
